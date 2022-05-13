@@ -1,0 +1,10 @@
+print('Hello, world!')
+
+nome = "naira"
+horas = 5
+valor = 10
+
+print(nome)
+print("meu nome é " + nome)
+print (horas * valor)
+
