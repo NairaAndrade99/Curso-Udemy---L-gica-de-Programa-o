@@ -1,0 +1,10 @@
+estoque = 10
+venda = 9
+
+if (venda > estoque) : 
+  
+  print("verificar erro")
+
+else:
+
+  print("estoque OK")
