@@ -3,22 +3,22 @@ algoritmo "semnome"
 //2-como resultado final exiba a media salarial
 // Autor :Naira da Silva Andrade
 // Data : 13/05/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome1:caractere
-funcionario1:inteiro
+funcionario1:real
 
 nome2:caractere
-funcionario2:inteiro
+funcionario2:real
 
 nome3:caractere
-funcionario3:inteiro
+funcionario3:real
 
 nome4:caractere
-funcionario4:inteiro
+funcionario4:real
 
 nome5:caractere
-funcionario5:inteiro
+funcionario5:real
 
 mediaSalarial:real
 
@@ -52,6 +52,6 @@ leia (funcionario5)
 
 mediaSalarial<-(funcionario1+funcionario2+funcionario3+funcionario4+funcionario5)/5
 
-escreval("A media salarial é ",mediaSalarial)
+escreval("A media salarial Ã© ",mediaSalarial)
 
 fimalgoritmo
